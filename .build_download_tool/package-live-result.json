@@ -1,0 +1,10 @@
+{
+  "errors": [],
+  "node_required": false,
+  "versions": {
+    "yt-dlp": "2026.08.19",
+    "ffmpeg": "9.0.2",
+    "ffprobe": "9.0.2",
+    "node": "24.16.0"
+  }
+}

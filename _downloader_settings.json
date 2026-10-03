@@ -1,0 +1,19 @@
+{
+  "url": "https://www.youtube.com/@lqmama550/videos",
+  "output": "D:\\tmp\\LQMAMA\\下載",
+  "video": true,
+  "audio": true,
+  "subtitles": true,
+  "categorize": true,
+  "mark_members": true,
+  "subtitle_language": "繁體中文",
+  "auto_subtitles": true,
+  "subtitle_txt": true,
+  "browser": "Opera",
+  "cookies_file": "",
+  "audio_format": "M4A",
+  "video_height": "最佳畫質",
+  "video_bitrate": "最高品質（保留來源）",
+  "audio_bitrate": "96 kbps",
+  "reuse_media": true
+}
